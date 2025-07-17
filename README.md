@@ -1,4 +1,4 @@
-# 📧 Email Spam Detection from Scratch using Naive Bayes
+# Email Spam Detection from Scratch using Naive Bayes
 
 Implementation of an email spam classifier using the **Naive Bayes** algorithm — built completely from scratch in Python, without using any machine learning libraries.  
 This project is ideal for educational purposes and understanding how text classification works under the hood.
