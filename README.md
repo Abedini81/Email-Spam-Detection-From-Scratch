@@ -5,7 +5,7 @@ This project is ideal for educational purposes and understanding how text classi
 
 ---
 
-## 🧠 Algorithm
+## Algorithm
 
 - **Naive Bayes Classifier** (Multinomial)
 - Custom implementation using:
@@ -15,14 +15,14 @@ This project is ideal for educational purposes and understanding how text classi
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - The dataset used is the classic **Spam Email** dataset (available on Kaggle).
 - It contains labeled email texts as **ham (not spam)** and **spam**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Preprocessing and tokenization of raw text
 - Word frequency counting by class (ham/spam)
@@ -31,13 +31,13 @@ This project is ideal for educational purposes and understanding how text classi
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 Input: "Get a free iPhone today, click here" Log P(Ham): -45.40 Log P(Spam): -38.77 Predicted label: spam
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.x
 - Jupyter Notebook
@@ -48,7 +48,7 @@ Input: "Get a free iPhone today, click here" Log P(Ham): -45.40 Log P(Spam): -38
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone this repository
 2. Open `EmailSpamDetection.ipynb` in Jupyter Notebook
